@@ -1,1 +1,2 @@
 # IBM-SkillsBuild-Internship
+Steganography is an advanced cybersecurity technique that hides sensitive information within images, making it undetectable to the human eye. This project leverages Python and encryption methods to enhance data security, ensuring confidential communication. It is particularly useful for cybersecurity professionals, intelligence agencies, and corporations seeking secure data transmission.
